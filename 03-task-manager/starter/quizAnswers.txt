@@ -1,0 +1,4 @@
+1. Middleware is functions that are able to edit the request and response objects, as well as end the request-response cycle. They are meant to handle requests to the server and perform actions correspondingly. 
+2. Create, Read, Update, Delete/Destroy
+3. a. Require the env file in app.js
+3. b. gitignore
